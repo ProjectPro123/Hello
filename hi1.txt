@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B667-E93B
+
+ Directory of C:\Users\Rudra\Desktop\java
+
+16-Jul-18  11:43 PM    <DIR>          .
+16-Jul-18  11:43 PM    <DIR>          ..
+16-Jul-18  09:08 PM               416 Hello.class
+16-Jul-18  12:50 AM               173 Hello.java
+16-Jul-18  11:42 PM               630 hi.txt
+16-Jul-18  11:43 PM                 0 hi1.txt
+16-Jul-18  09:35 PM                 0 index.html
+16-Jul-18  09:34 PM               492 readme.txt
+16-Jul-18  09:34 PM                 0 t1
+16-Jul-18  11:41 PM                 0 t2
+               8 File(s)          1,711 bytes
+               2 Dir(s)  36,182,491,136 bytes free
